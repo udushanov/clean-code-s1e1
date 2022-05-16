@@ -12,6 +12,11 @@ body {
   text-align: right;
 }
 
+.figure {
+  height: 250px;
+  margin: 0;
+}
+
 .information img {
   width: 100%;
 }
@@ -104,6 +109,12 @@ input[type="text"]:focus {
 }
 
 /* New Task */
+
+#top-section {
+  margin: 16px 0px;
+  border: none;
+  padding: 0;
+}
 
 label[for='new-task'] {
   display: block;
